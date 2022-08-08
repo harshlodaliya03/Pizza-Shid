@@ -1,0 +1,187 @@
+.h{
+    margin-left: 101px;
+    margin-top: -65px;
+    font-size: 20px;
+    color: orangered;
+}
+
+.nav{
+    margin-left: 500px;
+    margin-top: -44px;
+    font-size: 20px;
+    word-spacing: 40px;
+    color: orangered;
+    cursor: pointer;
+    
+}
+
+.z{
+    margin-left: 1250px;
+    margin-top: -35px;
+    
+}
+
+.s{
+
+    margin-left: 1100px;
+    margin-top: -42px;
+    border-radius: 10px;
+    
+}
+
+.log button{
+
+    margin-left: 1320px;
+    margin-top: -220px;
+    background-color: orangered;
+    color: azure;
+    border-radius: 10px;
+}
+
+.log img{
+
+    margin-left: 1310px;
+    margin-top: -50px;
+    border-radius: 5px;
+
+}
+
+.p img{
+
+    margin-top: 5px;
+    border-radius: 10px;
+    
+}
+
+.q{
+    margin-top: -330px;
+    font-size: 30px;
+    color: white;
+    margin-left: 10px;
+}
+
+.q button{
+
+    background-color: orangered;
+    color: aliceblue;
+    border-radius: 10px;
+    height: 30px;
+    width: 140px;
+}
+
+.card{
+    width: 230px;
+    height: 350px;
+     background-image: url(https://i.gifer.com/GIP.gif);
+     border-radius: 10px;
+     border: solid;
+     margin-left: 40px;
+     margin-top: 250px;
+     box-shadow: 2px 2px 10px orangered;
+     display: inline-block;
+
+    
+}
+
+.text{
+
+    text-align: center;
+    margin-top: 2px;
+    font-size: 20px;
+    color: orangered;
+}
+
+.button1 button{
+
+        margin-left: 60PX;
+        margin-top: 3px;
+       background-color:orangered;
+       height: 30px;
+       border-radius: 10px;
+       cursor: progress;
+       }
+
+.img img{
+    border-radius: 10px;
+    margin-left: 17px;
+    margin-top: 10px;
+
+}
+
+.con{
+
+    background-color: orangered;
+    height: 500px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+   
+.con .f{
+
+text-align: center;
+font-size: 30px;
+
+}
+
+.m{
+
+   margin-left: 1100px;
+   height: 100px;
+}
+
+.m button{
+
+    color: orangered;
+    border-radius: 5px;
+}
+
+.contact{
+
+    margin: 0px;
+    padding: 0px;
+    margin-left: 20px;
+    margin-top: -100px;
+}
+
+.contact input{
+
+    border: dotted;
+    border-radius: 5px;
+    border-color: orangered;
+}
+
+::placeholder{
+    color: blue;
+}
+
+.contact button{
+    color: orangered;
+    border-radius: 5px;
+}
+
+.follow{
+    height: 150px;
+    width: 300px;
+    background-image: url(1.gif);
+    margin-left: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: inset;
+    }
+
+    .follow b{
+        color: orangered;
+        font-size: 30px;
+
+
+    }
+
+    .v{
+        margin-left: 500px;
+        margin-top: -360px;
+    }
+
+   
+
+     
+ 
